@@ -10,7 +10,13 @@ The data shows various statistics about other existing data. 3 different sets ar
 
 ## Requirements
 
-We need to show the user the data in both tabular format and chart. There should be interaction between the graph and the tabular data. For instance, when hovering on a line of the graph, hightlight a column in the table.
+We need to show the user the data in both tabular format and chart.
+There should be interaction between the graph and the tabular data.
+For instance, when hovering on a line of the graph, hightlight a column in the table.
+
+To complete this behaviour, we would like to be able to change data on the fly. Allow the user to choose
+a point on the graph and allow to change it on the fly. Ideally, the change should be propagated to the backend
+but it can also stay in the frontend.
 
 ### Functional Requirements
 
