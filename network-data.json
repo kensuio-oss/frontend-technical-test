@@ -1,0 +1,102 @@
+{
+  "stats": [
+    {
+      "timestamp": 1589531203285,
+      "stats": {
+        "Serial Number.na": 2,
+        "Encryption.mean": 96,
+        "Encryption.na": 2,
+        "IP_Address.na": 4,
+        "Country.na": 3,
+        "Phone_Number.mean": 110,
+        "Country.mean": 104,
+        "Username.mean": 342,
+        "nrow": 9120,
+        "IP_Address.mean": 433,
+        "Phone_Number.na": 1,
+        "Username.na": 3,
+        "Serial Number.mean": 92
+      }
+    },
+    {
+      "timestamp": 1589531203613,
+      "stats": {
+        "Serial Number.na": 3,
+        "Encryption.mean": 396,
+        "Encryption.na": 2,
+        "IP_Address.na": 2,
+        "Country.na": 3,
+        "Phone_Number.mean": 286,
+        "Country.mean": 316,
+        "Username.mean": 395,
+        "nrow": 422,
+        "IP_Address.mean": 607,
+        "Phone_Number.na": 3,
+        "Username.na": 4,
+        "Serial Number.mean": 123
+      }
+    },
+    {
+      "timestamp": 1589531203836,
+      "stats": {
+        "Serial Number.na": 3,
+        "Encryption.mean": 176,
+        "Encryption.na": 3,
+        "IP_Address.na": 3,
+        "Country.na": 3,
+        "Phone_Number.mean": 365,
+        "Country.mean": 106,
+        "Username.mean": 163,
+        "nrow": 478,
+        "IP_Address.mean": 34,
+        "Phone_Number.na": 1,
+        "Username.na": 1,
+        "Serial Number.mean": 90
+      }
+    },
+    {
+      "timestamp": 1589531203586,
+      "stats": {
+        "Serial Number.na": 3,
+        "Encryption.mean": 752,
+        "Encryption.na": 2,
+        "IP_Address.na": 4,
+        "Country.na": 4,
+        "Phone_Number.mean": 48,
+        "Country.mean": 337,
+        "Username.mean": 115,
+        "nrow": 1029,
+        "IP_Address.mean": 66,
+        "Phone_Number.na": 3,
+        "Username.na": 4,
+        "Serial Number.mean": 473
+      }
+    },
+    {
+      "timestamp": 1589531203635,
+      "stats": {
+        "Serial Number.na": 3,
+        "Encryption.mean": 79,
+        "Encryption.na": 1,
+        "IP_Address.na": 3,
+        "Country.na": 1,
+        "Phone_Number.mean": 209,
+        "Country.mean": 243,
+        "Username.mean": 40,
+        "nrow": 6628,
+        "IP_Address.mean": 99,
+        "Phone_Number.na": 3,
+        "Username.na": 2,
+        "Serial Number.mean": 110
+      }
+    }
+  ],
+  "schema": {
+    "name": "queue://r415ivt7ae7nj6zb9zwbmckduj41po/observations_34.parquet",
+    "uuid": "k-db2c4e4ee2eb208d8a0ee1abe4d2955c2dab49054eab011e27ace64a2f9be174"
+  },
+  "lineage": {
+    "name": "process-12e1ca1e-75e4-4bc5-a14b-a698caee33ea-lineage",
+    "uuid": "k-fb9e2c4eb8e56bd3c999812163252bff472ce4112ea24b6049d017ba4d5c4f8a"
+  }
+}
