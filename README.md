@@ -25,6 +25,7 @@ We leave a lot to decide on the functional side. We would prefer a nice look & f
 ### Technical Requirements
 
 - Use ReactJS via create react app
+- Use TypeScript as language for this app
 - You **have to use Redux** (hint: at Kensu, we use redux-toolkit)
 - You can use a charting library based on D3.js or not.
 - Handle the loading of the data, success and errors via redux.
