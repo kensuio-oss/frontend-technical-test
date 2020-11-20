@@ -26,7 +26,7 @@ We leave a lot to decide on the functional side. We would prefer a nice look & f
 
 - Use ReactJS via create react app
 - You **have to use Redux** (hint: at Kensu, we use redux-toolkit)
-- Ideally the chart should be based on D3.js but there are many libraries that add charting on top of D3, you should preferably use one of those.
+- You can use a charting library based on D3.js or not.
 - Handle the loading of the data, success and errors via redux.
-- Choose the way to serve the json but it should just work by running npm start. If there is an external server, please make it easy to use. It just be done with the webpack dev server.
+- Choose the way to serve the json but it should just work by running npm start. If there is an external server, please make it easy to use. It can just be done with the webpack dev server.
 - You should share via Github or Gitlab but keep the repo private.
