@@ -30,4 +30,5 @@ We leave a lot to decide on the functional side. We would prefer a nice look & f
 - You can use a charting library based on D3.js or not.
 - Handle the loading of the data, success and errors via redux.
 - Choose the way to serve the json but it should just work by running npm start. If there is an external server, please make it easy to use. It can just be done with the webpack dev server.
+- It would really be appreciated if you would show in your solution how you deal with unit testing.
 - You should share via Github or Gitlab but keep the repo private.
