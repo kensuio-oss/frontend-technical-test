@@ -2,20 +2,20 @@
 
 ## Data
 
-The data shows various statistics about other existing data. 3 different sets are presented that correspond to real usage. This is only 3 examples of type of data we receive. The stats property
+The data shows various statistics about other existing data. 3 different sets are presented that correspond to real usage. These are only 3 examples of type of data we receive. The stats property
 is a generic key/value object, no assumptions can be made about the keys. The value is always a
 number.
 
 - drinks-various-data.json: various statistics on drinks and other related or unrelated numbers.
 - network-data.json: Some statistics about network / communication data
-- wheather-data.json: Same for wheather data
+- weather-data.json: Same for weather data
 
 ## Requirements
 
-We need to show the user the data in both tabular format and chart. Provide a way to navigate through the 3 different data sets. All data present in each json should be shown on the page in the chart and in the table.
+We need to show the user the data in both tabular format and chart. Provide a way to navigate through the 3 different data sets. All data present in each json should be shown on the page in the chart and the table.
 
 There should be interaction between the graph and the tabular data.
-For instance, when hovering on a line of the graph, hightlight a column in the table.
+For instance, when hovering on a line of the graph, highlight a column in the table.
 
 ### Functional Requirements
 
